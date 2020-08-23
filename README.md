@@ -1,2 +1,2 @@
 # Crowd-Counting
-Crowd counting model using MCNN
+A machine learning based model for Crowd counting using MCNN
